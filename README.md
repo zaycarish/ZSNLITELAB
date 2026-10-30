@@ -19,9 +19,9 @@ Memory - 12 GB RAM DDR4
 
 Linux Distro - Ubuntu
 
-==================
+=
 services (so far)
-==================
+
 
 = Remote Administration
 = SSH / Tailscale 
@@ -36,9 +36,9 @@ services (so far)
 = Network DNS filtering
 = Secure remote connectivity
 
-=========================
+=
 Projects & Documentation
-=========================
+
 
 = Linux server administration
 = Docker deployment and management
@@ -48,9 +48,9 @@ Projects & Documentation
 = Media server infrastructure
 = System monitoring and maintenance
 
-================
+=
 Technical Skills
-================
+=
 
 = Operating Systems: Ubuntu Linux, Linux CLI, Windows 10/11
 = Networking: DNS, TCP/IP, SSH, VPN connectivity
@@ -58,9 +58,9 @@ Technical Skills
 = Storage: NTFS, filesystem mounting, disk diagnostics
 = Troubleshooting: Linux logs, service diagnostics, networking issues
 
-=============
+=
 Project Goals
-=============
+
 
 = Document real-world troubleshooting experiences.
 = Improve Linux and networking proficiency.
