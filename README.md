@@ -21,7 +21,7 @@ Linux Distro - Ubuntu
 
 =
 services (so far)
-
+=
 
 = Remote Administration
 = SSH / Tailscale 
@@ -38,6 +38,7 @@ services (so far)
 
 =
 Projects & Documentation
+=
 
 
 = Linux server administration
@@ -60,7 +61,7 @@ Technical Skills
 
 =
 Project Goals
-
+=
 
 = Document real-world troubleshooting experiences.
 = Improve Linux and networking proficiency.
