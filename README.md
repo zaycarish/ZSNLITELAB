@@ -24,6 +24,7 @@ services (so far)
 =
 
 = Remote Administration
+= Osiris Firewatch (python based watchdog program)
 = SSH / Tailscale 
 = Docker
 = Containerized application hosting
