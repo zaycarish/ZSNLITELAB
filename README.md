@@ -54,7 +54,7 @@ Projects & Documentation
 Technical Skills
 =
 
-= Operating Systems: Ubuntu Linux, Linux CLI, Windows 10/11
+= Operating Systems: Ubuntu Linux, Linux CLI (VM), Kali Linux (experimenting on VMs) Windows 10/11
 = Networking: DNS, TCP/IP, SSH, VPN connectivity
 = Infrastructure: Docker, Portainer, self-hosted services
 = Storage: NTFS, filesystem mounting, disk diagnostics
